@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Hi there 👋, I'm uservkai </h1>
+<h1 align="center">Hi there 👋, I'm uservkai </h1>
 
 <p align="center">
   <i>A Backend Developer in training | Navigating the intersection of Technology & Finance | ALX SE Program</i>
@@ -9,7 +9,7 @@
 <h2>🚀 About Me</h2>
 
 <p>
-I am a learner of the <strong>ALX Software Engineering Program</strong> and I'm passionate about building scalable backend systems that create real-world impact. My journey into software engineering began with a deep curiosity for how technology powers the systems behind banking, finance, and digital economies.
+I am a learner of the <strong>ALX Back-End Web Development Program</strong> and I'm passionate about building scalable backend systems that create real-world impact. My journey into software engineering began with a deep curiosity for how technology powers the systems behind banking, finance, and digital economies.
 </p>
 
 <p>
@@ -57,10 +57,6 @@ To build robust and secure backend systems that power digital financial tools, i
   <td>🛠️ Tools</td>
   <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></td>
 </tr>
-<tr>
-  <td>🌐 Frontend (learning)</td>
-  <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></td>
-</tr>
 </table>
 
 ---
@@ -73,7 +69,6 @@ To build robust and secure backend systems that power digital financial tools, i
 <h2>🤝 Let’s Connect</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <!-- Optional: Add other links like portfolio, Dev.to, personal site -->
 </p>
 
